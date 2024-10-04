@@ -1,6 +1,6 @@
 # SQLite Client and Order Management System
 
-<img src="https://github.com/TonyVallad/Introduction-SQLite/blob/main/sqlite-introduction.png?raw=true" width="750"/>
+<img src="https://raw.githubusercontent.com/TonyVallad/SQLite-Exercise/refs/heads/main/resources/MCD.png" width="750"/>
 MCD
 
 This project is a simple SQLite-based management system for clients and their orders. It consists of two main components:
